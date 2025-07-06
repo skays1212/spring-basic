@@ -1,7 +1,6 @@
 package hello.core;
 
 import hello.core.member.*;
-import hello.core.order.AppConfig;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
